@@ -4,7 +4,7 @@
     <property name="created">2022-11-11T07:53:17</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">2021.3.1.17</property>
-    <property name="modified">2022-11-11T12:57:12</property>
+    <property name="modified">2022-11-14T17:13:53</property>
     <property name="originalScheme">Arc Dark (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -3716,6 +3716,7 @@
       <value>
         <option name="FOREGROUND" value="262b33" />
         <option name="BACKGROUND" value="5294e2" />
+        <option name="ERROR_STRIPE_COLOR" value="75d3ff" />
       </value>
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
