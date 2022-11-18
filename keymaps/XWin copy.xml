@@ -3,7 +3,13 @@
     <keyboard-shortcut first-keystroke="ctrl f4" />
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
+  <action id="ContextHelp" />
   <action id="EditorSelectWord" />
+  <action id="QuickJavaDoc">
+    <keyboard-shortcut first-keystroke="ctrl q" />
+    <mouse-shortcut keystroke="alt button2" />
+    <keyboard-shortcut first-keystroke="f1" />
+  </action>
   <action id="SmartSelect" />
   <action id="UpdateRunningApplication" />
   <action id="UsageFiltering.WriteAccess" />
